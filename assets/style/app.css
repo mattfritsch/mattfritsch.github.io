@@ -8,3 +8,13 @@ body{
 .nav-link:hover{
 
 }
+
+header{
+    margin-left : 5%;
+    margin-right : 5%;
+}
+
+footer{
+    margin-left : 5%;
+    margin-right : 5%;
+}
